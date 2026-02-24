@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samara-best.online/sitemap.xml
